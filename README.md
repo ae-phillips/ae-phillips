@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Anna Phillips -- I graduated Summa Cum Laude in May, 2025, from the University of Richmond, with my B.A. in Psychology and minors in Music and Data Science & Statistics. I'm a member of Phi Beta Kappa and Psi Chi.
+
+My interest in Data Science began with a Data Visualization elective within my Psychology major. That class was my first introduction to R (and coding in general), and I was immediately hooked on the interplay of logic and creativity. There's bias in every level of data: how you collect it, how you clean it, how you analyze it, how you visualize it, and how you disseminate it.
+
 
 <!--
 **ae-phillips/ae-phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
