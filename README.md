@@ -10,9 +10,13 @@ There's bias in every level of data: how you collect it, how you clean it, how y
 My previous data science education drew heavily from concepts in Dr. Catherine D'Ignazio and Dr. Lauren F. Klein's book [*Data Feminism*](https://direct.mit.edu/books/book/4660/Data-Feminism), and moving forward, I hope to continually challenge the alleged "objectivity" in data, specifically in this current rise of AI. Humans are biased, and we are the ones who control our data — we must take accountability for that.
 
 ### My Skills:
-R: Data cleaning, analysis, and visualization; R Markdown; Key packages: the tidyverse, ggplot, tidytext, and mapping.
+#### R 
+- Data cleaning, analysis, and visualization
+- R Markdown
+- Key packages: tidyverse, ggplot, tidytext, and mapping
 
-Python: Just beginner level for now (CMSC 150), but I'm excited to transition into using it for data science, including analysis and visualization.
+#### Python
+- Just beginner level for now (CMSC 150), but I'm excited to transition into using it for data science, including analysis and visualization!
 
 ### Past Projects:
 *“Love” in Stephen Sondheim’s lyrical corpus: An exploration with tf-idf, sentiment analysis, and topic modeling*
