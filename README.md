@@ -20,6 +20,7 @@ My previous data science education drew heavily from concepts in Dr. Catherine D
 
 ### Past Projects
 *“Love” in Stephen Sondheim’s lyrical corpus: An exploration with tf-idf, sentiment analysis, and topic modeling*
+*North Carolina Corporate Landlords: "Security for Sale" Dataset Exploration*
 
 ### Contact Me
 Email: anna.phillips@richmond.edu
